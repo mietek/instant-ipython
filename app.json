@@ -1,0 +1,10 @@
+{
+  "name": "ipython-on-heroku",
+  "description": "IPython on Heroku",
+  "repository": "https://github.com/mietek/ipython-on-heroku",
+  "env": {
+    "IPYTHON_PASSWORD": {
+      "required": false
+    }
+  }
+}
